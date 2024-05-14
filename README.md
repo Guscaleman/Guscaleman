@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Gustavo+Caleman!;I´m+a+Full+Stack+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)<br>
  💻 Front-end Developer | 🧩 Fullstack developer at training in Kenzie Academy Brasil<br>
 
- ![Guscaleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guscaleman&count_private=true&show_icons=true)
+ ![Guscaleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guscaleman&count_private=true&show_icons=true&theme=dark)
  <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guscaleman&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
