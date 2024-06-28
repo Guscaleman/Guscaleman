@@ -2,7 +2,7 @@
  💻 Front-end Developer | 🧩 Fullstack developer at training in Kenzie Academy Brasil<br>
 
  ![Guscaleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guscaleman&count_private=true&show_icons=true&theme=dark)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guscaleman&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guscaleman&theme=dark&layout=compact&v=1)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
