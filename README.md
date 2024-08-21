@@ -3,8 +3,8 @@
  ![Guscaleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guscaleman&count_private=true&show_icons=true&theme=dark)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guscaleman&theme=dark&layout=compact&v=1)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: inline_block"><br>
- <h2>Tenho experiências nas seguintes tecnologias:</h2>
+<div style="display: inline_block">
+ <h2>Tenho experiência nas seguintes tecnologias:</h2>
   <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Isa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Isa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
