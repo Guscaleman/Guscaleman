@@ -12,6 +12,7 @@
   <img align="center" alt="NodeJS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
  <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
  <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/meteor/meteor-plain.svg">
+ <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
 </div>
 
   ##
