@@ -48,7 +48,7 @@
       <p>
     <p>🧰 Ferramentas de desenvolvimento:</p>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,figma" />
   </a>
   </p>
       <p>
