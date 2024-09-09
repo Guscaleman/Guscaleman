@@ -25,7 +25,7 @@
   <p>
     <p>🌐 Front-end:</p>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,styledcomponents,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,styledcomponents,tailwind,saas" />
   </a>
   </p>
     <p>
