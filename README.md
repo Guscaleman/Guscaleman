@@ -18,6 +18,7 @@
  <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
  <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
  <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+ <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg">
 </div>
 
   ##
