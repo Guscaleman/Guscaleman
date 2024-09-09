@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World,+I´m+Gustavo+Caleman!;I´m+a+Full+Stack+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)<br>
 
 ## Sobre mim
-- 📚 Sou formado em Engenharia de computação pela UFMT.
+- 📚 Sou formado em Engenharia de Computação pela UFMT.
 - 👨‍💻 Sou desenvolvedor Fullstack.
 - 🎮 Nas horas vagas gosto de jogar ou ver filmes.
 
