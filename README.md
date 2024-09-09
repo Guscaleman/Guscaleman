@@ -36,7 +36,7 @@
   </p>
   <p>🖥️ Frameworks:</p>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=meteor,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=express,nestjs,django" />
   </a>
   </p>
       <p>
