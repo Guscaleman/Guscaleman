@@ -23,36 +23,36 @@
 </p>
 
   <p>
-    <p>🌐 Front-end:</p>
+    <p>🌐Front-end:</p>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,styledcomponents,tailwind,sass" />
   </a>
   </p>
     <p>
-    <p>🖥️ Back-end:</p>
+    <p>🖥️Back-end:</p>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,prisma,jest" />
   </a>
   </p>
-  <p>🖥️ Frameworks:</p>
+  <p>🧩Frameworks:</p>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=express,nestjs,django" />
   </a>
   </p>
       <p>
-    <p>🗃️ Banco de dados:</p>
+    <p>🗃️Banco de dados:</p>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
   </a>
   </p>
       <p>
-    <p>🧰 Ferramentas de desenvolvimento:</p>
+    <p>🧰Ferramentas de desenvolvimento:</p>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,figma" />
   </a>
   </p>
       <p>
-    <p>🌍 Outras:</p>
+    <p>🌍Outras:</p>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,nginx,vercel" />
   </a>
