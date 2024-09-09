@@ -14,7 +14,7 @@
 ## Tecnologias
 
   <p>
-    <p>💻 Linguagens de programação:</p>
+    <p>⌨Linguagens de programação:</p>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,typescript,python" />
   </a>
