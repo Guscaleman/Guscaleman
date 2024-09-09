@@ -16,6 +16,7 @@
  <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
  <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
  <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+ <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
 </div>
 
   ##
