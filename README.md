@@ -54,7 +54,7 @@
       <p>
     <p>🌍 Outras:</p>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,nginx" />
+    <img src="https://skillicons.dev/icons?i=docker,nginx,vercel" />
   </a>
   </p>
 
