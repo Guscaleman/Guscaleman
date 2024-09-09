@@ -13,26 +13,50 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guscaleman&theme=dark&layout=compact&v=1)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="display: inline_block"> <br>
- <p>Tenho experiência nas seguintes tecnologias:</p>
-  <img align="center" alt="Isa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Isa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Isa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Isa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Isa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="NodeJS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
- <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
- <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/meteor/meteor-plain.svg">
- <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
- <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
- <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
- <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
- <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/railway/railway-original.svg">
- <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
- <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
- <img align="center" alt="Isa-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-</div>
+## Tecnologias
+
+  <p>
+    <p>💻 Linguagens de programação:</p>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,typescript,python" />
+  </a>
+</p>
+
+  <p>
+    <p>🌐 Front-end:</p>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,styledcomponents,tailwind" />
+  </a>
+  </p>
+    <p>
+    <p>🖥️ Back-end:</p>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,prisma,jest" />
+  </a>
+  </p>
+  <p>🖥️ Frameworks:</p>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=meteor,express,nestjs" />
+  </a>
+  </p>
+      <p>
+    <p>🗃️ Banco de dados:</p>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+  </a>
+  </p>
+      <p>
+    <p>🧰 Ferramentas de desenvolvimento:</p>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma" />
+  </a>
+  </p>
+      <p>
+    <p>🌍 Outras:</p>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,railway" />
+  </a>
+  </p>
 
   ##
  
