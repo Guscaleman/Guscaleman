@@ -9,17 +9,22 @@
 
 ## 
 
+  <div align="center">
+    
   <img
-    width="350px"
+    width="450px"
     src="https://github-readme-stats.vercel.app/api?username=Guscaleman&count_private=true&show_icons=true&theme=dark"
     alt="estatísticas gerais"
   />
 
   <img
-    width="350px"
+    width="450px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guscaleman&theme=dark&layout=compact&v=1"
     alt="linguagens mais usadas"
   />
+    
+  </div>
+
 
 ## Tecnologias
 
