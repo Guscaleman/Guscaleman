@@ -8,8 +8,18 @@
 
 
 ## 
- ![Guscaleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guscaleman&count_private=true&show_icons=true&theme=dark)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guscaleman&theme=dark&layout=compact&v=1)](https://github.com/anuraghazra/github-readme-stats)
+
+  <img
+    width="450px"
+    src="https://github-readme-stats.vercel.app/api?username=Guscaleman&count_private=true&show_icons=true&theme=dark"
+    alt="estatísticas gerais"
+  />
+
+  <img
+    width="450px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guscaleman&theme=dark&layout=compact&v=1"
+    alt="linguagens mais usadas"
+  />
 
 ## Tecnologias
 
@@ -18,7 +28,7 @@
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,typescript,python" />
   </a>
-</p>
+ </p>
 
   <p>
     <p>🌐Front-end:</p>
