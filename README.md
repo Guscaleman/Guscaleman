@@ -10,13 +10,13 @@
 ## 
 
   <img
-    width="450px"
+    width="350px"
     src="https://github-readme-stats.vercel.app/api?username=Guscaleman&count_private=true&show_icons=true&theme=dark"
     alt="estatísticas gerais"
   />
 
   <img
-    width="450px"
+    width="350px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guscaleman&theme=dark&layout=compact&v=1"
     alt="linguagens mais usadas"
   />
